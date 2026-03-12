@@ -11,7 +11,7 @@ $(function() {
 			description2b: 'Join us on a virtual info session where you can learn more about the Lang School’s Master’s of Real Estate.',
 			description3: "The Master’s of Real Estate equips you with in-depth insights into office, retail, industrial, and residential spaces and develop the technical skills required to analyze, identify, and address the industry's emerging real estate challenges.",
 			url1: 'https://form.jotform.com/253075028818258',
-			url2: 'https://form.jotform.com/253075028818258',
+			url2: 'https://calendly.com/lang_admissions-uoguelph/professional-programs-information-session-mre',
 			url3: 'https://www.uoguelph.ca/lang/masters-real-estate/'
 		},
 		{
